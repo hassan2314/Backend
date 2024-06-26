@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "First Product Deploye",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassan2314/Backend.git"
+  },
+  "author": "Hassan Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassan2314/Backend/issues"
+  },
+  "homepage": "https://github.com/hassan2314/Backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
